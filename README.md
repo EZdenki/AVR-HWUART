@@ -1,4 +1,4 @@
-# hwuart
+# AVR-HWUART
 Hardware serial library for AVR microcontrollers that have built-in USART.
 
 I wrote this to have easy serial IO for AVR microcontrollers that have built-in USARTs.
